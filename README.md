@@ -1,7 +1,11 @@
-## Olháá! Eu sou o Andrey Vinicius
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyVjs&show_icons=true&theme=gruvbox&custom_title=Stats&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
+### Olá! Eu sou o Andrey Vinicius 👋
+
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com muita experiência prática e paixão pelo **Backend**.
+
+As linguagens que mais uso são **Java** e **Kotlin**, que utilizo para criar toda a lógica dos meus projetos.
+
+🛠️ Dedico meu tempo extra a desenvolver soluções inovadoras, desde **WebApps** até **aplicativos** que me ajudam no meu dia dia transformando ideias em realidade.
 
 ## Conhecimentos
 
