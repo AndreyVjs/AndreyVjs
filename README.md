@@ -34,15 +34,6 @@ Atualmente estou em busca de acompanhar as exigências do mercado para o futuro,
 | **Backend Core** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> |
 | **Web** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> |
 
-</div>
-
-## 📊 Meus Status Atuais
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreyvjs&theme=gruvbox&show_icons=true&hide_border=true&title_color=daa520&icon_color=daa520&text_color=ffffff&bg_color=111111" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreyvjs&theme=gruvbox&hide_border=true&ring=daa520&fire=daa520&currStreakNum=ffffff&currStreakLabel=daa520&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=111111" alt="GitHub Streak" width="48%" />
-</div>
-
 ***
 
 <div align="center">
